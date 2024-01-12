@@ -28,3 +28,10 @@
         a:hover {
             background-color: red;
         }
+
+        p {
+            display: block;
+            height: 411px;
+            color:white;
+            text-align: center;
+        }
